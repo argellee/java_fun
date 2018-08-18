@@ -1,4 +1,4 @@
-package designPattern;
+package designpattern;
 
 public class ConcreteTemplate extends AbstractTemplate{
     //基本方法的实现

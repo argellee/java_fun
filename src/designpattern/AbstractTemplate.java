@@ -1,4 +1,4 @@
-package designPattern;
+package designpattern;
 
 public abstract class AbstractTemplate {
     /**

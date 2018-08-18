@@ -1,4 +1,4 @@
-package designPattern;
+package designpattern;
 
 /**
  * Created by lijin9 on 2018/6/29.

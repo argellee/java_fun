@@ -1,4 +1,4 @@
-package designPattern;
+package designpattern;
 
 /**
  * 饿汉式单例
