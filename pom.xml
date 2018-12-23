@@ -5,12 +5,17 @@
 
     <groupId>com.jinHigh</groupId>
     <artifactId>java-fun</artifactId>
+    <packaging>pom</packaging>
     <version>1.0.0-SNAPSHOT</version>
 
     <name>java-fun</name>
     <description>have java fun</description>
 
     <modules>
+        <module>java-fun-base</module>
+        <module>java-fun-concurrent</module>
+        <module>java-fun-collection</module>
+        <module>java-fun-logback</module>
     </modules>
 
     <properties>
